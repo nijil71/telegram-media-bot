@@ -1,21 +1,15 @@
 {
     "telegram": {
         "link": "https://api.telegram.org/bot",
-        "token": "",
-        "chatid": ""
+        "token": "1266550346:AAEw3NWVhd0JiUN9rFI0JBD545qOH_Ld-ls",
+        "chatid": "842606448"
     },
     "reddit": {
         "ua": "",
         "subs_one": {"pics": 5, "gifs": 5, "funny": 5},
         "subs_two": {"funny_gifs": 30, "comics": 30, "xkcd": 10}
     },
-    "twitter": {
-        "consumer_key": "",
-        "consumer_secret": "",
-        "access_token": "",
-        "access_token_secret": "",
-        "account_one": "",
-        "account_two": ""
+   
     },
     "ftp": {
         "enabled": 0,
